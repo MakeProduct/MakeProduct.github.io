@@ -1,0 +1,27 @@
+title:              Let's share ideas easily!!
+email:              i.make.product@gmail.com
+description:        There is a lot of complicated knowledge in the world. Many experts explain this with difficulty. I will try to explain intuitively so that people can understand easily.
+author:             MakeProduct
+baseurl:            ""
+url:                "https://MakeProduct.github.io"
+
+# Social Profiles
+twitter_username:   SBootstrap
+github_username:    StartBootstrap
+facebook_username:  StartBootstrap
+instagram_username:  
+linkedin_username:
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+
+remote_theme : startbootstrap-clean-blog-jekyll
