@@ -1,3 +1,0 @@
-# MakeProduct.github.io
-
-test
